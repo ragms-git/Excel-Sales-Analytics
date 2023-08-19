@@ -9,7 +9,15 @@ Excel Based Sales Analytics Project for AtliQ Hardwares
 
 **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Target](https://github.com/ragms-git/Excel-Sales-Analytics/blob/main/Market_Performance_VS_Target.pdf)_.
 
-**3.** Create a report on _[Top 10 products based on the percentage increase in their net sales from 2020 to 2021?]()_.
+**3.** Create a report on _[Top 10 products based on the percentage increase in their net sales from 2020 to 2021](https://github.com/ragms-git/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_.
+
+**4.** Generate a _[Division Report](https://github.com/ragms-git/Excel-Sales-Analytics/blob/main/Division_Level_Report.pdf)_ to present the net sales data for 2020 and 2021, along with the growth percentage.
+
+**5.** Find out the _[Top 5 & Bottom 5 products](https://github.com/ragms-git/Excel-Sales-Analytics/blob/main/Top_Bottom_5_products.pdf)_ in term of quantity sold.
+
+**6.** Create a report of _[New Products](https://github.com/ragms-git/Excel-Sales-Analytics/blob/main/new_products.pdf)_ AtliQ began selling in 2021.
+
+**7.** Generate a report on _[Top 5 Countries](https://github.com/ragms-git/Excel-Sales-Analytics/blob/main/Top_5_countries.pdf)_ in terms of net sales in 2021.
 
 
 
