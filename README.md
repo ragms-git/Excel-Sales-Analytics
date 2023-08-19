@@ -9,6 +9,8 @@ Excel Based Sales Analytics Project for AtliQ Hardwares
 
 **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Target](https://github.com/ragms-git/Excel-Sales-Analytics/blob/main/Market_Performance_VS_Target.pdf)_.
 
+**3.** Create a report on _[Top 10 products based on the percentage increase in their net sales from 2020 to 2021?]()_.
+
 
 
 
